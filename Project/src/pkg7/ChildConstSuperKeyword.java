@@ -4,7 +4,7 @@ public class ChildConstSuperKeyword extends ParentConst {
 	
 	public ChildConstSuperKeyword()
 	{ super(23);
-		System.out.println("Child Default Constructor");
+		System.out.println("Child Default Constructor...");
 	}
 	public ChildConstSuperKeyword(int a)
 	{ this(6,8,9);
